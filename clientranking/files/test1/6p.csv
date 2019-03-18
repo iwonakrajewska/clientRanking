@@ -1,0 +1,7 @@
+id,appointment_id,name,price,loyalty_points
+d2d3b92d-f9b5-48c5-bf31-88c28e3b73ac,7416ebc3-12ce-4000-87fb-82973722ebf4,Shampoo,19.5,20
+5bd41515-4c91-4ea7-9b0e-266617097852,7416ebc3-12ce-4000-87fb-82973722ebf4,Moistureiser,30.0,30
+68e2105e-a8bb-48bc-97bd-d43411f86c0e,57b23971-74f4-464c-b79b-3326cd01fc15,Shampoo,19.5,20
+1e2cb854-47d0-44cf-9767-e45f3dddc3e1,a670567d-bb09-4eaa-8e15-9ffdb1b50e7b,Body Wash,11.0,10
+71947ab6-e3ef-45ba-b60d-83d1810fc3ff,8a6dd2d9-cd8d-4b46-9971-cc7d4fcd0bff,Anti Ageing Cream,15.0,15
+f22489cb-36f2-4869-a31b-46eb8fa5692e,8a6dd2d9-cd8d-4b46-9971-cc7d4fcd0bff,Body Wash,11.0,10

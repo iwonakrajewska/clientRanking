@@ -1,0 +1,10 @@
+id,appointment_id,name,price,loyalty_points
+65e53809-3ba7-4396-9108-b878696b02ae,bd109d64-b0cd-49bf-a4b4-fa8276135c24,Cut & Style,28.0,30
+8e8c8176-bf17-459d-9113-da94b339af95,bd109d64-b0cd-49bf-a4b4-fa8276135c24,Cut & Style,28.0,30
+4ede8754-d377-450b-befc-2bf937705e65,fccb4f4f-3c4c-4169-86cd-63142ae99af5,Pedicure,46.0,40
+db6dbe9b-5dca-4375-b493-a8f8bf0e425a,fccb4f4f-3c4c-4169-86cd-63142ae99af5,Manicure,26.0,20
+275590ea-4ab3-468d-b251-cc797d780e47,82daebd9-a2b6-4d89-8a05-8fc0839aa9d6,Eyebrow Wax,15.0,15
+637b69ce-cab0-450d-8d46-b16d70265228,8a6dd2d9-cd8d-4b46-9971-cc7d4fcd0bff,Leg Wax,40.0,40
+0233aaf7-224e-4c32-a42e-4e12e96bcfd9,8a6dd2d9-cd8d-4b46-9971-cc7d4fcd0bff,Eyebrow Wax,15.0,15
+b6f7bba7-669c-4bc9-87de-17ff1b8b01c8,8a6dd2d9-cd8d-4b46-9971-cc7d4fcd0bff,Leg Wax,40.0,40
+111,e01901d2-bbdc-485f-a3ee-8d4a5e8d77fe,Cut & Style,28.0,2
