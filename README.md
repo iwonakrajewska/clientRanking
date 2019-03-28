@@ -1,3 +1,4 @@
-to run application use
+to run application use:
 
 run.bat
+
